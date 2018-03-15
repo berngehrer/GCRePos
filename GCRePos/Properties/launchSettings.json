@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GCRePos": {
+      "commandName": "Project",
+      "commandLineArgs": "-i C:\\Users\\Marco\\Documents\\eagle\\Anemometer\\A1302.bot.etch.tap -o C:\\Users\\Marco\\Documents\\eagle\\Anemometer\\OUT_A1302.bot.etch.tap -x 1 -y 2.5"
+    }
+  }
+}
